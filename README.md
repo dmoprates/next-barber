@@ -1,3 +1,13 @@
+## Check list de desenvolvimento do projeto:
+
+Aula 01
+
+- [ X ] Setup do Banco
+- [] Seeding do banco
+- [] Introdução ao Next.js
+- [] Tailwind e Shadcn
+- [] Git Hooks
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
