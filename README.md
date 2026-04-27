@@ -3,7 +3,7 @@
 Aula 01
 
 - [ X ] Setup do Banco
-- [] Seeding do banco
+- [ X ] Seeding do banco
 - [] Introdução ao Next.js
 - [] Tailwind e Shadcn
 - [] Git Hooks
